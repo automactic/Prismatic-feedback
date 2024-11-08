@@ -1,3 +1,12 @@
+## v1.1
+Date: 
+
+- Photo browser now displays thumbnails at the bottom of the screen
+- Photo browser can be interactively dismissed (iOS 18 only)
+- Better handling of scenarios where full resolution images cannot be loaded
+
+- Added links to discussion and changelog
+
 ## v1.0.1
 Date: Mov 7, 2024
 
