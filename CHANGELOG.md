@@ -1,3 +1,18 @@
+## v1.2
+Date:
+
+- Supporting more media types, including video, raw & vector images.
+- Retry workflow when full resolution image or video cannot be loaded.
+
+## v1.1
+Date: Dec 6, 2024
+
+- Photo viewer now displays thumbnails at the bottom of the screen
+- Photo viewer can be interactively dismissed (iOS 18 only)
+- Better handling of scenarios where full resolution images cannot be loaded
+- Tapping on counter widget now shows server detail
+- Added links to discussion and changelog
+
 ## v1.0.1
 Date: Nov 7, 2024
 
