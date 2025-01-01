@@ -1,7 +1,8 @@
 ## v1.2
 Date:
 
-- More media types, including video, raw & vector images
+- Added Videos tab
+- Supporting more media types, including video, raw & vector images
 - Retry workflow when full resolution image or video cannot be loaded
 - Additional detail and context when encountering sign in issues
 - Additional server details
