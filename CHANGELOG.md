@@ -1,8 +1,10 @@
 ## v1.2
 Date:
 
-- Supporting more media types, including video, raw & vector images.
-- Retry workflow when full resolution image or video cannot be loaded.
+- More media types, including video, raw & vector images
+- Retry workflow when full resolution image or video cannot be loaded
+- Additional detail and context when encountering sign in issues
+- Additional server details
 
 ## v1.1
 Date: Dec 6, 2024
