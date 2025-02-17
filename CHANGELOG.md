@@ -1,11 +1,18 @@
+## v1.3
+Date: Feb 17, 2025
+
+- Additional photo details and metadata
+- Photo Gird: section by month when using certain sorting methods
+- Fixed an issue where dates with fractional seconds in json response cannot be parsed
+
 ## v1.2
-Date:
+Date: Jan 26, 2025
 
 - Added Videos tab
 - Supporting more media types, including video, raw & vector images
-- Retry workflow when full resolution image or video cannot be loaded
+- Retry workflow when full resolution image cannot be loaded
 - Additional detail and context when encountering sign in issues
-- Additional server details
+- Additional server details (site author & version)
 
 ## v1.1
 Date: Dec 6, 2024
