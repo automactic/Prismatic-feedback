@@ -1,3 +1,13 @@
+## v1.4
+
+Date: Apr 2, 2025
+
+- Video player looping and muting setting
+- Updates for PhotoPrism February 23, 2025 release:
+  - Updated icon for favorite, moments, and video
+  - Photo description is renamed to caption
+- Dropped support for iOS 17
+
 ## v1.3
 Date: Feb 17, 2025
 
