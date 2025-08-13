@@ -1,5 +1,11 @@
-## v1.4
+## v1.5
+Date: Aug 11, 2025
 
+- Use Home tab to view all collections & media types at a glance
+– Browse by media types: live photos, animations, monochrome, panoramas, and scans
+– Mark photo as favorite or archive photos
+
+## v1.4
 Date: Apr 2, 2025
 
 - Video player looping and muting setting
