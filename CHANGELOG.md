@@ -1,3 +1,8 @@
+## v1.6
+
+- Keyboard shortcut: switch between tabs
+- iOS 26 / iPadOS 26 compatibility
+
 ## v1.5
 Date: Aug 11, 2025
 
