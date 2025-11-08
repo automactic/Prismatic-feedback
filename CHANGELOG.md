@@ -1,4 +1,13 @@
+## v1.7 
+
+- Inline video playback
+- Direct play HEVC videos without server side transcoding
+- Restore photos from archive
+- Mark and unmark photos as private
+- Photos are now grouped by days when viewing photos of a single month
+
 ## v1.6
+Date: Sept 14, 2025
 
 - Keyboard shortcut: switch between tabs
 - iOS 26 / iPadOS 26 compatibility
