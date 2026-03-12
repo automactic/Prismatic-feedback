@@ -1,4 +1,10 @@
+## v1.8
+
+- Batch action: select multiple photos, archive them or mark them as private
+- Dropped support for iOS 18
+
 ## v1.7 
+Date: Nov 28, 2025
 
 - Inline video playback
 - Direct play HEVC videos without server side transcoding
