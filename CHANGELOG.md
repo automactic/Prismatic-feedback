@@ -1,4 +1,9 @@
+## v1.9
+
+- Filter photos by media types, countries, cameras, colors, categories, years, and months
+
 ## v1.8
+Date: Mar 30, 2026
 
 - Batch action: select multiple photos, archive them or mark them as private
 - Dropped support for iOS 18
