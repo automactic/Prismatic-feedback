@@ -1,6 +1,25 @@
+## v1.11
+Date:
+
+- Download original photo and sidecar files from photo info view
+- Share downloaded photo and files
+- Manage downloaded photo and files in the files app
+- iOS 27 compatibility
+
+## v1.10
+Date: Aug 7, 2026
+
+- Album management: create, update, or delete albums
+- Add photo to albums: via context menu or photo viewer, or for all selected photos
+- Folder, moments, calendar and label management
+- Fixed an issue where the app could not decode server config during sign in
+
 ## v1.9
+Date: Jun 21, 2026
 
 - Filter photos by media types, countries, cameras, colors, categories, years, and months
+- Fixed an issue where video playback is not stopped when dismissing photo viewer
+- Fixed an issue where error in photo viewer disappears too quickly
 
 ## v1.8
 Date: Mar 30, 2026
